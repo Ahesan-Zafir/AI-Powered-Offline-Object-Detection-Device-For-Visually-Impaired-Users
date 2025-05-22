@@ -73,4 +73,6 @@ This project aims to address these challenges by developing a portable, affordab
     on our low processing device Raspberry Pi, the end results were with same accuracy
     as obtained in i5 machine, but the frames per second is slightly less i.e 0.9 frames
     per second.
+
     
+   # Refer Project Report to get systematic steps and Procedure followed.
